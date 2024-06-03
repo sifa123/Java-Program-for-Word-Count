@@ -1,1 +1,1 @@
-# Java-Program-for-Word-Count
+# This task is done for an online assessment.
